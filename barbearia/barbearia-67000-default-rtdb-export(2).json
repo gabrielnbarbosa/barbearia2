@@ -1,0 +1,158 @@
+{
+  "barbeiro": [
+    null,
+    {
+      "cpf": 98087483545,
+      "email": "gabriel@gmail.com",
+      "endereco": "padre antonio ",
+      "nome": "gabriel",
+      "numero": 931,
+      "profissao": "barbeiro",
+      "telefone": 6575358689
+    },
+    {
+      "cpf": 98765422345,
+      "email": "nilson@gmail.com",
+      "endereco": "vila azul",
+      "nome": "nilson",
+      "numero": 543,
+      "profissao": "patrao",
+      "telefone": 889955436
+    },
+    {
+      "cpf": 65437890234,
+      "email": "daniel@gmail.com",
+      "endereco": "tibiquari",
+      "nome": "daniel",
+      "numero": 55,
+      "profissao": "atendente",
+      "telefone": 7798755438
+    },
+    {
+      "cpf": 45678900233,
+      "email": "keurilais@gmail.com",
+      "endereco": "arvoredo",
+      "nome": "keuri",
+      "numero": 78,
+      "profissao": "chefe geral",
+      "telefone": 8675473477
+    },
+    {
+      "cpf": 98853576923,
+      "email": "hellen@gmail.com",
+      "endereco": "ceak",
+      "nome": "hellen",
+      "numero": 34,
+      "profissao": "recepcionista",
+      "telefone": 8845757585
+    },
+    {
+      "cpf": 9867845032,
+      "email": "erika@gmail.com",
+      "endereco": "bairro de fatima",
+      "nome": "erika",
+      "numero": 60,
+      "profissao": "cabeleleira",
+      "telefone": 8898654553
+    },
+    {
+      "cpf": 975533571,
+      "email": "getulio@gmail.com",
+      "endereco": "alto do ze rosa",
+      "nome": "getulio",
+      "numero": 301,
+      "profissao": "barbeiro movel",
+      "telefone": 77856746797
+    },
+    {
+      "cpf": 99987744355,
+      "email": "natalia@gmail.com",
+      "endereco": "sambra",
+      "nome": "natalia",
+      "numero": 550,
+      "profissao": "servicos gerais",
+      "telefone": 9988665433
+    },
+    {
+      "cpf": 67903654612,
+      "email": "marcos@gmail.com",
+      "endereco": "boa viaginha",
+      "nome": "marcos",
+      "numero": 785,
+      "profissao": "tratacao de cabelo",
+      "telefone": 7757435637
+    },
+    {
+      "cpf": 66573548562,
+      "email": "laisa@gmail.com",
+      "endereco": "ponte nova",
+      "nome": "laisa",
+      "numero": 400,
+      "profissao": "contadoras",
+      "telefone": 8896754234
+    }
+  ],
+  "clientes": [
+    null,
+    {
+      "email": "vanderson@gmail.com",
+      "horarios": "7h20",
+      "nome": "vanderson",
+      "telefone": 8899856343
+    },
+    {
+      "email": "rafael@gmail.com ",
+      "horarios": "8h00",
+      "nome": "rafael",
+      "telefone": 8898564533
+    },
+    {
+      "email": "edson@gmail.com",
+      "horarios": "9h00",
+      "nome": "edson",
+      "telefone": 8867544547
+    },
+    {
+      "email": "thiago@gmail.com",
+      "horario": "10h50",
+      "nome": "thiago",
+      "telefone": 8896543354
+    },
+    {
+      "email": "davi@gmail.com",
+      "horarios": "11h30",
+      "nome": "davi",
+      "telefone": 8897532246
+    },
+    {
+      "email": "laiane@gmail.com",
+      "horarios": "14h00",
+      "nome": "laiane",
+      "telefone": 99764675003
+    },
+    {
+      "email": "larissa@gmail.com",
+      "horarios": "16h30",
+      "nome": "larissa",
+      "telefone": 8876546756
+    },
+    {
+      "email": "joaoeudo@gmail.com",
+      "horarios": "17h30",
+      "nome": "joao eudo",
+      "telefone": 8890345642
+    },
+    {
+      "email": "juninho@gmail.com",
+      "horarios": "18h00",
+      "nome": "juninho",
+      "telefone": 8894363688
+    },
+    {
+      "email": "adalberto@gmail.com",
+      "horario": "20h20",
+      "nome": "adalberto",
+      "telefone": 8898432146
+    }
+  ]
+}
